@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="701.80255"
+   height="62.273384"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="valveShape.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70958731"
+     inkscape:cx="189.62369"
+     inkscape:cy="77.724986"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="valve"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-180.83308,-695.76654)">
+    <path
+       id="path3798"
+       d="M 490.23949,698.06995 348.89574,725.4137 c 20.40255,-5.6552 12.10091,-29.46283 -1.6875,-27.34375 l -106.34375,20.5 -59.375,-0.84375 0,23.90625 61.5,0 c 25.0596,-0.30242 49.74263,-8.87543 71.3125,-3.40625 l 99.09375,18.78125 c 22.31775,3.9214 22.1526,-24.01827 7.18236,-28.35433 l 140.24485,27.80193 c 19.09134,3.08494 23.18288,-24.25272 4.90625,-27.96875 l 139.875,27.96875 c 16.23774,4.26925 23.65223,-19.07185 5.125,-27.3125 38.4589,1.82629 81.08615,11.53448 108.875,11.9375 l 62.37505,0 -0.4376,-25.1875 -64.06245,0.84375 c -24.11137,-0.0777 -21.52503,-20.15929 -33.65625,-20.3125 -0.80875,-0.0102 -1.70449,0.0712 -2.65625,0.25 l -142.625,28.1875 c 22.56149,-8.07456 9.63591,-30.54028 -2.5625,-27.75 l -142.68235,28.24495 c 18.32084,-5.1753 13.1781,-28.70104 -3.05736,-27.2863 z m -144.03125,9.15625 c 6.65171,-0.0242 7.01214,7.34427 -0.53125,8.90625 l -34.09375,6.78125 -21.5,-4.875 53.875,-10.5625 c 0.82111,-0.17512 1.56189,-0.2475 2.25,-0.25 z m 144.375,0 c 6.65171,-0.0242 6.98089,7.34427 -0.5625,8.90625 l -28.5,6.03125 -24.46875,-5.25 51.25,-9.4375 c 0.82111,-0.17512 1.59314,-0.2475 2.28125,-0.25 z m 146.42721,0.47885 c 6.65171,-0.0242 7.01214,7.34427 -0.53125,8.90625 l -28.5,6.03125 -22.25,-5.59375 49.03125,-9.09375 c 0.82111,-0.17512 1.56189,-0.2475 2.25,-0.25 z m 144.28125,0 c 6.65171,-0.0242 7.01214,7.34427 -0.53125,8.90625 l -28.5,6.03125 -34.5625,-4.125 61.34375,-10.5625 c 0.82111,-0.17512 1.56189,-0.2475 2.25,-0.25 z m -394.61471,24.4274 28.5,6.03125 c 8.32374,1.72356 7.0398,10.52422 -1.71875,8.65625 l -53.5,-9.46875 z m 148.52096,-0.5524 28.53125,6.03125 c 8.32374,1.72356 7.00855,10.52422 -1.75,8.65625 l -49,-9.09375 z m 142.125,0 28.53125,6.03125 c 8.32374,1.72356 7.00855,10.52422 -1.75,8.65625 l -49,-9.09375 z"
+       style="color:#000000;fill:#e40000;fill-opacity:0.50531915;fill-rule:nonzero;stroke:#5d0000;stroke-width:1.31281173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccsccccssccccssccccssccccsccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="labels">
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+       x="59.189335"
+       y="-54.696014"
+       id="text3801"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3803"
+         x="59.189335"
+         y="-54.696014" /></text>
+  </g>
+</svg>
