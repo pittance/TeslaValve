@@ -1,6 +1,6 @@
 
 
-valve();
+scale([0.7,0.7,1])valve();
 
 module valve() {
     difference() {
